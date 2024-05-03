@@ -3,19 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/modelo/Marca.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/modelo/Auto.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/vista/EquipoGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/vista/CompetenciaGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/vista/AutoGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/vista/MarcaGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/controlador/ControladorAutoGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/modelo/Equipo.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/controlador/ControladorMarcaGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/main/OpcionalAndrickBuitragoPiedrahita.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/controlador/ControladorCompetenciaGUI.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/modelo/Competencia.java</file>
-            <file>file:/C:/Users/OITEL/Documents/NetBeansProjects/Opcional%20Andrick%20Buitrago%20Piedrahita/src/controlador/ControladorEquipoGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Auto.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorEquipoGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorCompetenciaGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Competencia.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Equipo.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorMarcaGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorAutoGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Marca.java</file>
         </group>
     </open-files>
 </project-private>

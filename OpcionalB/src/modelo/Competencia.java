@@ -1,83 +1,81 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package modelo;
-
-import java.awt.List;
-import java.util.ArrayList;
 import java.util.List;
+import java.util.ArrayList;
 
-/**
- *
- * @author Univalle
- */
 public class Competencia {
-
-    private Marca listaMarca = new ArrayList();
-    private Equipo listaEquipo;
-    private Auto listaAuto;
-    private String result = "";
+    //Atributos
+    private List<Marca> listaMarca = new ArrayList<>();
+    private List<Equipo> listaEquipo = new ArrayList<>();
+    private List<Auto> listaAuto = new ArrayList<>();
 
     public Competencia() {
-        
     }
 
-
-
-  
-    //métodos
-    public void regisMarca(Marca marquita) {
-        this.listaMarca
+    //Methods
+    public boolean regisMarca(Marca marquita){
+    return false;
+    }
+    public boolean regisEquipo(Equipo equipito){
+    return false;
+    }
+    public boolean regisAuto(Auto autico){
+    return false;
+    }
+    
+    public String consulMarca(int){
+    
+    }
+    public String consulMarca(int){
+    
+    }
+    public String consulMarca(int){
+    
+    }
+    
+    public void actualMarca(int, int, String){
+    
+    }
+    public void actualEquipo(int, int, String){
+    
+    }
+    public void actualAuto(int, int, String){
+    
+    }
+    
+    
+    public void borrarMarca(int){
+    }
+    public void borrarEquipo(int){
+    
+    }
+    public void borrarAuto(int){
+    
+    }
+            
+    //Getters and stters
+    public List<Marca> getListaMarca() {
+        return listaMarca;
     }
 
-    public void regisEquipo(Equipo quipito) {
-
+    public void setListaMarca(List<Marca> listaMarca) {
+        this.listaMarca = listaMarca;
     }
 
-    public void regisAuto(Auto autico ) {
-
+    public List<Equipo> getListaEquipo() {
+        return listaEquipo;
     }
 
-//-----------------------------------------------------------------------------------------------------------------------------------
-    public String consulMarca() {
-        return result;
+    public void setListaEquipo(List<Equipo> listaEquipo) {
+        this.listaEquipo = listaEquipo;
     }
 
-    public String consulEquip() {
-
-        return result;
+    public List<Auto> getListaAuto() {
+        return listaAuto;
     }
 
-    public String consulAuto() {
-
-        return result;
+    public void setListaAuto(List<Auto> listaAuto) {
+        this.listaAuto = listaAuto;
     }
-
-    //-----------------------------------------------------------------------------------------------------------------------------------
-    public void actuaMarca(int code) {
-
-    }
-
-    public void actuaEquip(int code) {
-
-    }
-
-    public void actuaAuto(int code) {
-
-    }
-
-    //-----------------------------------------------------------------------------------------------------------------------------------
-    public void borrMarca(int cod) {
-
-    }
-
-    public void borrEquipo(int cod) {
-
-    }
-
-    public void borrAuto(int cod) {
-
-    }
-
+    
+    
 }

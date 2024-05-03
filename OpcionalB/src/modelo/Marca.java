@@ -4,17 +4,17 @@
  */
 package modelo;
 
-/**
- *
- * @author Univalle
- */
+
 public class Marca {
+    //atributos
     private int codigo;
     private String nombre;
     private String paisOrigen;
 
+    //Constructor
     public Marca() {}
 
+    //Métodos set getter
     public int getCodigo() {
         return codigo;
     }
