@@ -4,13 +4,15 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Auto.java</file>
-            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorEquipoGUI.java</file>
-            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorCompetenciaGUI.java</file>
-            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Competencia.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/vista/EquipoVista.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/MarcaControlador.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/vista/MarcaVista.java</file>
             <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Equipo.java</file>
-            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorMarcaGUI.java</file>
-            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/ControladorAutoGUI.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/vista/AutoVista.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/AutoControlador.java</file>
             <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/modelo/Marca.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/controlador/EquipoControlador.java</file>
+            <file>file:/C:/Users/sterr/Desktop/Big/Univalle/Tecn.Desarrollo%20de%20soft/Practicas,%20ejercicios%20y%20proyectos/Java_netbeans/Parciales/OpcionalB/src/main/OpcionalAndrickBuitragoPiedrahita.java</file>
         </group>
     </open-files>
 </project-private>

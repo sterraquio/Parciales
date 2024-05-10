@@ -1,22 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package modelo;
 
-/**
- *
- * @author Univalle
- */
+
 public class Auto {
 
-    private int codigo;
-    private Marca marca;
-    private Equipo equipo;
-    
-    
     public Auto() {
     }
+    
+    private int codigo;
+    private Marca marca;
+    private Equipo equipito;
+    private String nombrePiloto;
 
     public int getCodigo() {
         return codigo;
@@ -34,12 +28,22 @@ public class Auto {
         this.marca = marca;
     }
 
-    public Equipo getEquipo() {
-        return equipo;
+    public Equipo getEquipito() {
+        return equipito;
     }
 
-    public void setEquipo(Equipo equipo) {
-        this.equipo = equipo;
+    public void setEquipito(Equipo equipito) {
+        this.equipito = equipito;
     }
 
+    public String getNombrePiloto() {
+        return nombrePiloto;
+    }
+
+    public void setNombrePiloto(String nombrePiloto) {
+        this.nombrePiloto = nombrePiloto;
+    }
+    
+    
+    
 }

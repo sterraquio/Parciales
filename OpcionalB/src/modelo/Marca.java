@@ -1,20 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package modelo;
 
 
 public class Marca {
-    //atributos
+
+    public Marca() {
+    }
+    
     private int codigo;
     private String nombre;
-    private String paisOrigen;
+    private String PaisOrigen;
 
-    //Constructor
-    public Marca() {}
-
-    //Métodos set getter
     public int getCodigo() {
         return codigo;
     }
@@ -32,11 +28,11 @@ public class Marca {
     }
 
     public String getPaisOrigen() {
-        return paisOrigen;
+        return PaisOrigen;
     }
 
-    public void setPaisOrigen(String paisOrigen) {
-        this.paisOrigen = paisOrigen;
+    public void setPaisOrigen(String PaisOrigen) {
+        this.PaisOrigen = PaisOrigen;
     }
     
     
